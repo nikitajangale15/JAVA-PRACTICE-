@@ -1,3 +1,4 @@
+// Check Whether the number is Pallindrome or not.
 import java.util.Scanner;
 
 public class number6 {
