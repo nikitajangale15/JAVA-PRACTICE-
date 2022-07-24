@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class number4 {
+public class greatest_of_three {
     public static void main (String[]args)
   {
     Scanner sc = new Scanner (System.in);

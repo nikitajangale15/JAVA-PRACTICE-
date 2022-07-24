@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class number2 {
+public class Even_odd {
     public static void main (String [] args)
     {
         int n ;

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class number3 {
+public class greater_number {
     public static void main (String[]args)
    {
      int num1, num2;

@@ -1,7 +1,7 @@
 //Check Whether or Not the Number is an Armstrong Number
 import java.util.Scanner;
 
-public class number7 {
+public class check_armstrong {
     public static void main(String [] s)
     {
         Scanner sc = new Scanner(System.in);

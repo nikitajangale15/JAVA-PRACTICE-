@@ -1,7 +1,7 @@
 // Check Whether the number is Pallindrome or not.
 import java.util.Scanner;
 
-public class number6 {
+public class check_pallindrome {
     public static void main(String [] s)
     {
         Scanner sc = new Scanner(System.in);
