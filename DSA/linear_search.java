@@ -13,7 +13,7 @@ public class linear_search {
                 return;
             }
         }
-        System.out.println(item +"not found");
+        System.out.println(item +" not found.");
     }
     public static void main(String[] s)
     {
