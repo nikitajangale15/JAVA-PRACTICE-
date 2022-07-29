@@ -1,3 +1,5 @@
+//Program to implement linear search algorithm in JAVA.
+
 package DSA;
 import java.util.Scanner;
 public class linear_search {
@@ -7,7 +9,7 @@ public class linear_search {
         {
             if (ar[i] == item)
             {
-                System.out.println(item + "found at : " + i);
+                System.out.println(item + " found at : " + i);
                 return;
             }
         }
