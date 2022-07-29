@@ -1,4 +1,4 @@
-//Program to implement linear search algorithm in JAVA.
+//Program to implement linear search algorithm in Java.
 
 package DSA;
 import java.util.Scanner;
