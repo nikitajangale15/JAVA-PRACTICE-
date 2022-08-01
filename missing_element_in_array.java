@@ -1,6 +1,7 @@
+//Java program to find the missing element in array.
 public class missing_element_in_array
 {
-  public static void main(String[] args) 
+  public static void main(String[] s) 
   {
  
     int arr1[] = {7,5,6,1,4,2};
